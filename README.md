@@ -1,24 +1,26 @@
-1. 🗣 Commented on [#2](https://github.com//TheAlphamerc/flutter_news_app/issues/2) in [TheAlphamerc/flutter_news_app](https://github.com//TheAlphamerc/flutter_news_app)
+### Hi there 👋
 
+I am a Software engineer with experience in building intelligent & scalable applications using Flutter | C# | .NET and Xamarin.
+I love mobile apps, distributed systems, open source projects and the challenges associated with them.
+I like writing,sharing my knowledge with other engineers.
 
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-2. ❗️ Closed issue [#78](https://github.com//TheAlphamerc/flutter_twitter_clone/issues/78) in [TheAlphamerc/flutter_twitter_clone](https://github.com//TheAlphamerc/flutter_twitter_clone)
-3. ❗️ Closed issue [#79](https://github.com//TheAlphamerc/flutter_twitter_clone/issues/79) in [TheAlphamerc/flutter_twitter_clone](https://github.com//TheAlphamerc/flutter_twitter_clone)
-4. 🗣 Commented on [#34](https://github.com//TheAlphamerc/flutter_twitter_clone/issues/34) in [TheAlphamerc/flutter_twitter_clone](https://github.com//TheAlphamerc/flutter_twitter_clone)
+- 🔭 I’m currently working on new open source project [GitConnect](https://github.com/TheAlphamerc/flutter-GitConnect).
+- 🌱 I’m currently learning Android Kotlin and Swift UI
+- 👯 I’m looking to collaborate on open source Flutter project 
+- 🤔 I’m looking for help with my one of open source project [Twitter Clone](https://github.com/TheAlphamerc/flutter_twitter_clone)
+- 💬 Ask me about Flutter | C# | .Net and Xamarin
+- 📫 How to reach me: [Github](https://github.com/TheAlphamerc), [Blog](https://dev.to/thealphamerc), [Twitter](https://twitter.com/TheAlphamerc), [Facebook](https://facebook.com/TheAlphaMerc), [Linkedin](https://www.linkedin.com/in/thealphamerc/)
+- 😄 Pronouns:  He/him
 
-5. 🎉 Merged PR [#8](https://github.com//TheAlphamerc/flutter_ecommerce_app/pull/8) in [TheAlphamerc/flutter_ecommerce_app](https://github.com//TheAlphamerc/flutter_ecommerce_app)
+### Recent Projects
+[![30DaysOfKotlinChallenge](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=30DaysOfKotlinChallenge)](https://github.com/TheAlphamerc/30DaysOfKotlinChallenge) [![flutter_spacexopedia](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=flutter_spacexopedia)](https://github.com/TheAlphamerc/flutter_spacexopedia)[![flutter_hack20_cyber_theme](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=flutter_hack20_cyber_theme)](https://github.com/TheAlphamerc/flutter_hack20_cyber_theme) [![country_provider](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=country_provider)](https://github.com/TheAlphamerc/country_provider)
 
-6. undefined
-7. undefined
-8. undefined
-9. undefined
-10. undefined
-11. undefined
-12. undefined
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
 
-13. undefined
-14. undefined
+<!--END_SECTION:activity-->
 
-15. undefined
-
-16. undefined
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
