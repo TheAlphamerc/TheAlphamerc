@@ -23,6 +23,9 @@ I like writing,sharing my knowledge with other engineers.
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Fwitter android app v1.0.6 is released on play store](https://dev.to/thealphamerc/fwitter-android-app-v1-0-6-is-released-on-play-store-pem)
+- [Spacexopedia | Built with Flutter](https://dev.to/thealphamerc/spacexopedia-built-with-flutter-11e8)
+- [Get, Search, Filter Countries data using country_provider flutter plugin](https://dev.to/thealphamerc/get-search-filter-countries-data-using-countryprovider-flutter-plugin-1epc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Visitors Count
