@@ -14,9 +14,6 @@ I like writing,sharing my knowledge with other engineers.
 - 📫 How to reach me: [Github](https://github.com/TheAlphamerc), [Blog](https://dev.to/thealphamerc), [Twitter](https://twitter.com/TheAlphamerc), [Facebook](https://facebook.com/TheAlphaMerc), [Linkedin](https://www.linkedin.com/in/thealphamerc/)
 - 😄 Pronouns:  He/him
 
-### Recent Projects
-[![30DaysOfKotlinChallenge](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=30DaysOfKotlinChallenge)](https://github.com/TheAlphamerc/30DaysOfKotlinChallenge) [![flutter_spacexopedia](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=flutter_spacexopedia)](https://github.com/TheAlphamerc/flutter_spacexopedia)[![flutter_hack20_cyber_theme](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=flutter_hack20_cyber_theme)](https://github.com/TheAlphamerc/flutter_hack20_cyber_theme) [![country_provider](https://github-readme-stats.vercel.app/api/pin/?username=thealphamerc&repo=country_provider)](https://github.com/TheAlphamerc/country_provider)
-
 
 <!--START_SECTION:activity-->
 
