@@ -21,9 +21,9 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Last 3 articles published on Dev.to
 <!-- BLOG-POST-LIST:START -->
+- [GitConnect - A Github application built in flutter](https://dev.to/thealphamerc/gitconnect-a-github-application-built-in-flutter-4j0i)
 - [Flutter filter list package v.0.05 released on pub.dev](https://dev.to/thealphamerc/flutter-filter-list-package-v-0-05-released-on-pub-dev-1kol)
 - [Fwitter android app v1.0.6 is released on play store](https://dev.to/thealphamerc/fwitter-android-app-v1-0-6-is-released-on-play-store-pem)
-- [Spacexopedia | Built with Flutter](https://dev.to/thealphamerc/spacexopedia-built-with-flutter-11e8)
 <!-- BLOG-POST-LIST:END -->
 
 ### Visitors Count
