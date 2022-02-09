@@ -6,11 +6,9 @@ I like writing,sharing my knowledge with other engineers.
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-- 🔭 I’m currently working on new open source project [Commun App](https://github.com/TheAlphamerc/flutter_commun_app).
-- 🌱 I’m currently learning Android Kotlin and Swift UI
+- 🔭 I’m currently working on new open source project [Commun App](https://github.com/TheAlphamerc/flutter_commun_app) and [Instagram Clone](https://github.com/TheAlphamerc/react-instagram).
 - 👯 I’m looking to collaborate on open source Flutter project 
-- 🤔 I’m looking for help with my one of open source project [Twitter Clone](https://github.com/TheAlphamerc/flutter_twitter_clone)
-- 💬 Ask me about Flutter | C# | .Net and Xamarin
+- 💬 Ask me about Flutter | React | C# | .Net and Xamarin
 - 📫 How to reach me: [Github](https://github.com/TheAlphamerc), [Blog](https://dev.to/thealphamerc), [Twitter](https://twitter.com/TheAlphamerc), [Facebook](https://facebook.com/TheAlphaMerc), [Linkedin](https://www.linkedin.com/in/thealphamerc/)
 - 😄 Pronouns:  He/him
 
