@@ -19,9 +19,9 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Last 3 articles published on Dev.to
 <!-- BLOG-POST-LIST:START -->
-- [GitConnect - A Github application built in flutter](https://dev.to/thealphamerc/gitconnect-a-github-application-built-in-flutter-4j0i)
-- [Flutter filter list package v.0.05 released on pub.dev](https://dev.to/thealphamerc/flutter-filter-list-package-v-0-05-released-on-pub-dev-1kol)
-- [Fwitter android app v1.0.6 is released on play store](https://dev.to/thealphamerc/fwitter-android-app-v1-0-6-is-released-on-play-store-pem)
+- [Top 10 Best Practices for Coding That Every Developer Should Follow](https://dev.to/thealphamerc/top-10-best-practices-for-coding-that-every-developer-should-follow-3ab5)
+- [Bug: An Inevitable Part of the Development Process](https://dev.to/thealphamerc/bug-an-inevitable-part-of-the-development-process-2djm)
+- [Pulse - Project Management app built in ReactJS](https://dev.to/thealphamerc/pulse-project-management-app-build-in-reactjs-bk2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Visitors Count
