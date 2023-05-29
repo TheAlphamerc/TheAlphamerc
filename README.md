@@ -19,9 +19,9 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Last 3 articles published on Dev.to
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Low-Code Development: What You Need to Know](https://dev.to/thealphamerc/the-rise-of-low-code-development-what-you-need-to-know-104e)
 - [Tips and Tricks That Every Typescript Developer Should Know](https://dev.to/thealphamerc/tips-and-tricks-that-every-typescript-developer-should-know-e0h)
 - [Top 10 Best Practices for Coding That Every Developer Should Follow](https://dev.to/thealphamerc/top-10-best-practices-for-coding-that-every-developer-should-follow-3ab5)
-- [Bug: An Inevitable Part of the Development Process](https://dev.to/thealphamerc/bug-an-inevitable-part-of-the-development-process-2djm)
 <!-- BLOG-POST-LIST:END -->
 
 ### Visitors Count
