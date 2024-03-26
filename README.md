@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am a Software engineer with experience in building intelligent & scalable applications using Flutter, React and Xamarin.
-I love mobile apps, distributed systems, open source projects and the challenges associated with them.
-I like writing,sharing my knowledge with other engineers.
+I am a Software engineer with experience in building intelligent & scalable applications using Flutter, ReactJs, NextJs, and Node.
+I love mobile apps, distributed systems, open-source projects and the challenges associated with them.
+I like writing, and sharing my knowledge with other engineers.
 
 <img align ="right" src = "https://github.com/TheAlphamerc/TheAlphamerc/assets/37103237/71528b45-2d50-4b5c-a5dc-67ba5242617a" width="150" height="150">
 
 
 
-- 🔭 I’m currently working on new open source project [Pulse](https://github.com/TheAlphamerc/pulse)
+- 🔭 I’m currently working on a new open source project [Orgnise](https://github.com/orgnise/webapp)
 - 👯 I’m looking to collaborate on open source Flutter project 
 - 💬 Ask me about Flutter | React | C# | .Net and Xamarin
 - 📫 How to reach me: [Github](https://github.com/TheAlphamerc), [Blog](https://dev.to/thealphamerc), [Twitter](https://twitter.com/TheAlphamerc), [Facebook](https://facebook.com/TheAlphaMerc), [Linkedin](https://www.linkedin.com/in/thealphamerc/)
